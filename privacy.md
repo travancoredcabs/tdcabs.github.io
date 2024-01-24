@@ -18,8 +18,6 @@ Location Information: We may collect your device's location information if you g
 
 Usage Information: We may collect data on how you interact with the App, including the pages you visit, the features you use, and the actions you take within the App.
 
-Payment Information: If you make payments through the App, we may collect payment information, including your credit card details or other payment methods.
-
 ### 3. How We Use Your Information
 
 We use the information we collect for the following purposes:
